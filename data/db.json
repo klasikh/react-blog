@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Bienvenue sur mon blog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus commodi, in tempora laudantium debitis nesciunt",
+      "author": "Tony",
+      "date": "02/06/2017"
+    },
+    {
+      "id": 2,
+      "title": "La nuit des codeurs",
+      "body": "ducimus dolore eaque quaerat totam provident necessitatibus corporis eveniet consequatur ut rem cum quo recusandae?",
+      "author": "Duplex",
+      "date": "27/04/2021"
+    },
+    {
+      "title": "Toto",
+      "author": "Tony",
+      "body": "Lorem blabla ????? ................. iu hzei fhie gh iegoh",
+      "date": "2022-11-18 01:30:47.580Z",
+      "id": 3
+    },
+    {
+      "title": "Nouveau post",
+      "author": "Duplex",
+      "body": "Dup l jvoe rjgo ejgoerjgoe goer gjoe gjege gezge zgzezegzegez\nze mgjze mgezg\nzeg ozejg zejgze\nzei zejgoze jgio zejgio jzeigozejgio ezj g zeg\nez gez gjzeo gjze",
+      "date": "2022-11-18 01:34:51.047Z",
+      "id": 4
+    },
+    {
+      "title": "Nouveau post",
+      "author": "Duplex",
+      "body": "Dup l jvoe rjgo ejgoerjgoe goer gjoe gjege gezge zgzezegzegez\nze mgjze mgezg\nzeg ozejg zejgze\nzei zejgoze jgio zejgio jzeigozejgio ezj g zeg\nez gez gjzeo gjze",
+      "date": "2022-11-18 01:34:58.278Z",
+      "id": 5
+    }
+  ]
+}
